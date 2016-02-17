@@ -1,0 +1,14 @@
+.boxedimgquest {
+  border: 1px; color: #653090; background-color: #653090; height: 196px; width: 760px;
+}
+.boxedimgmotion {border: 1px; color: #313391; background-color: #313391; height: 196px; width: 760px;
+}
+.seriesimage {border: 1px; color: #313391; background-color: #313391; height: 405px; width: 540px;
+}
+.boxbreaks {background-color: #313391; /*height: 79px; width: 540px;*/  /*line-height: 79px; font-style: normal; color: white; text-align: center; */
+}
+.boxbreaks .box-inner {font-size: 8em !important; 
+}
+.boxbreaks > input {
+    text-align:left;
+}
